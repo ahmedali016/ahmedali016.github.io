@@ -8,7 +8,7 @@ namespace SellDeer.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult index()
         {
             return View();
         }
